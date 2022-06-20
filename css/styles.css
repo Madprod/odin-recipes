@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(225, 195, 240);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    color: #ffa631;
+    font-size: 50px;
+    margin-bottom: 0;    
+}
+
+.mainlist {
+    text-align: center;
+    padding: 20px;
+    list-style-position: inside;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+a:hover {
+    color:#ffa631;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border: solid 5px black;
+}
+
+.recipe-name {
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 0;
+    font-style: oblique;
+}
